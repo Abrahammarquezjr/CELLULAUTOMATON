@@ -14,3 +14,9 @@ What makes it visually distinctive is the **psychedelic rendering layer** on top
 - **Speed slider** — controls how fast generations advance, from meditative slow to rapid flicker
 
 It runs continuously and never pauses — when a pattern dies out or runs for too long it automatically reseeds itself, so it works equally well as a screensaver, a gallery piece, or a tool for capturing generative art stills.
+
+<img width="933" height="674" alt="Screen Shot 2026-02-19 at 4 20 26 PM" src="https://github.com/user-attachments/assets/c0f699ca-a785-4a34-be3b-b8bfe1e905f7" />
+<img width="933" height="674" alt="Screen Shot 2026-02-19 at 4 20 26 PM" src="https://github.com/user-attachments/assets/c0f699ca-a785-4a34-be3b-b8bfe1e905f7" />
+<img width="921" height="677" alt="Screen Shot 2026-02-19 at 4 20 17 PM" src="https://github.com/user-attachments/assets/0a19dcd3-62f9-49a3-a562-a902fb4a501b" />
+<img width="921" height="677" alt="Screen Shot 2026-02-19 at 4 20 17 PM" src="https://github.com/user-attachments/assets/0a19dcd3-62f9-49a3-a562-a902fb4a501b" />
+
